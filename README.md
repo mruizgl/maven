@@ -293,7 +293,7 @@ Configurando maven (3.6.3-5) ...
 update-alternatives: utilizando /usr/share/maven/bin/mvn para proveer /usr/bin/m
 vn (mvn) en modo automático
 
-``
+```
 
  Para verificar la instalación, ejecute mvn -version:
 ```
